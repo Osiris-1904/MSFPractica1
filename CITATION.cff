@@ -1,0 +1,25 @@
+# This CITATION.cff file was generated with cffinit.
+# Visit https://bit.ly/cffinit to generate yours today!
+
+cff-version: 1.2.0
+title: 'Práctica 1: Diseño de controladores'
+message: Modelado de Sistemas Fisiológicos \ Ingeniería Biomédica
+type: software
+authors:
+  - given-names: Osiris Jaylin
+    family-names: Chavez Hernandez
+    email: l23210697@tectijuana.edu.mx
+    affiliation: 'Tecnologico Nacional de Mexico '
+identifiers:
+  - type: url
+    value: 'https://github.com/Osiris-1904/MSFPractica1'
+repository-code: 'https://github.com/Osiris-1904/MSFPractica1'
+keywords:
+  - Sistema de control
+  - 'Controlador '
+  - Señal de error
+  - Lazo abierto
+  - Lazo cerrado
+license: BSD-2-Clause
+version: '1.0'
+date-released: '2026-02-24'
