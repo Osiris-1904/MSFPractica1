@@ -4,7 +4,7 @@
 
 ## Información de la estudiante
 
-Nombres y Apellidos \[No. Control]; correo institucional
+Osiris Jaylin Chavez Hernandez \[23210697]; l23210697@tectijuana.edu.mx
 
 Modelado de Sistemas Fisiológicos
 
